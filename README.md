@@ -1,2 +1,4 @@
-# primeiro-react
-É aqui que começa os meus estudos em React.JS!
+# Meu Primeiro React ♡
+
+É aqui é onde começa os meus estudos em React.JS!
+Porque todo começo deve ser lembrado.
